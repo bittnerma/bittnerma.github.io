@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to Marian Bittner's homepage!
 description: This is my page.
-logo: ["https://raw.githubusercontent.com/bittnerma/bittnerma.github.io/master/no_logo.jpg"]
-show_downloads: ["true"]
+logo: no_logo.jpg
+show_downloads: true
