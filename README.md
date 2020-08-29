@@ -3,4 +3,4 @@
 
 *"Much to learn you still have"* - Yoda
 
-[I also have a second page](secondpage.md)
+[I also have a second page](second_page.md)
