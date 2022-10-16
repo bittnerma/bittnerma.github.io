@@ -2,6 +2,11 @@
 
 This page contains articles and written work by myself, or that I contributed to. Feel free to explore.
 
+## 2022
+
+[Blogpost]
+[My way through scientific writer’s block](https://medium.com/@mbittner.work/my-way-through-scientific-writers-block-8c72f98cce62)
+
 ## 2020
 
 [Blogpost]
