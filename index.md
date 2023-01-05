@@ -4,7 +4,7 @@ Hey there, nice to meet you! This page is still a bit barebone, but it will be i
 
 Check out my [Scientific Articles and Blogposts](publications.md)
 
-Check out my [Projects](projects.md)
+<!-- Check out my [Projects](projects.md) -->
 
 
 

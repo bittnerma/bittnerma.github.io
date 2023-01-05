@@ -4,6 +4,9 @@ This page contains articles and written work by myself, or that I contributed to
 
 ## 2022
 
+[Scientific Paper]
+[Towards Single Camera Human 3D-Kinematics](https://www.mdpi.com/1424-8220/23/1/341)
+
 [Blogpost]
 [My way through scientific writer’s block](https://medium.com/@mbittner.work/my-way-through-scientific-writers-block-8c72f98cce62)
 
