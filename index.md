@@ -1,8 +1,6 @@
 # Welcome to my homepage
 
-*"Much to learn, you still have"* - Yoda
-
-Hey there, nice to meet you! This page is currently still a bit barebone, but it will be improved in the future.
+Hey there, nice to meet you! This page is still a bit barebone, but it will be improved in the future.
 
 Check out my [Scientific Articles and Blogposts](publications.md)
 
